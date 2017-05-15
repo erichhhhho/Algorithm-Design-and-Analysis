@@ -24,7 +24,7 @@ Algorithm-Design-and-Analysis
 5. 小结和心得；
 6. 源程序清单.
 
-===
+
 实验二
 ==
 
@@ -49,7 +49,6 @@ Algorithm-Design-and-Analysis
 5. 小结和心得；
 6. 源程序清单.
 
-===
 实验三
 ==
 
@@ -75,7 +74,6 @@ Algorithm-Design-and-Analysis
 5. 小结和心得；
 6. 源程序清单.
 
-===
 实验四
 ==
 
